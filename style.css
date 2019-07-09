@@ -136,8 +136,6 @@ h2 {
 }
 
 .team-avatars {
-  -webkit-filter: saturate(1.8);
-  filter: saturate(1.8);
   margin-top: 150px;
   display: flex;
   justify-content: space-around;
@@ -161,8 +159,6 @@ h2 {
 }
 
 .team article img {
-  -webkit-filter: saturate(1.5);
-  filter: saturate(1.5);
     max-width: 150px;
     border-radius: 50%;
     padding-right: 30px;
